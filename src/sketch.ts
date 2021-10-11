@@ -17,7 +17,7 @@ import {
 } from '@code-not-art/core';
 
 const config = Config({
-  menuDelay: 100,
+  menuDelay: 10,
 });
 
 const params: Parameter[] = [
