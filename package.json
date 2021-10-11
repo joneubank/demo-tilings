@@ -1,10 +1,10 @@
 {
   "name": "template",
   "version": "1.0.0",
-  "description": "Quick Start Template for a sketching some code art",
+  "description": "Core-Not-Art sketch demo - tiled grid",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/public/index.html",
+    "start": "parcel src/public/index.html",
     "build": "parcel build src/public/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +15,7 @@
     "arrowFunctionParentheses": "always"
   },
   "dependencies": {
-    "@code-not-art/sketch": "^0.4.1",
+    "@code-not-art/sketch": "^0.6.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
