@@ -4,6 +4,8 @@
 
 Play with the [Live Demo!](https://codenotart-demo-tiles.netlify.app)
 
+Built using [@code-not-art/sketch](https://www.npmjs.com/package/@code-not-art/sketch) from the ready to go [development template](https://github.com/code-not-art/template)
+
 ## Quick Start
 
 After `git clone` and `npm install`, run `npm start`!
